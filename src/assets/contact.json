@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Jessie",
+        "lastName": "Gumanab",
+        "email": "MeJessie@gmail.com",
+        "phone": "(559) 555-2154",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Sylvanas",
+        "lastName": "Windrunner",
+        "email": "LadyWindrunner@TheJailer.com",
+        "phone": "(559) 555-2154",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Queen",
+        "lastName": "Azshara",
+        "email": "QueenyAzshar@Nagawin.com",
+        "phone": "(559) 555-2154",
+        "editing": false
+    }
+]
